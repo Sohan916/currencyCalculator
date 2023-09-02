@@ -5,13 +5,10 @@ import Snackbar from 'react-native-snackbar';
 import {
   FlatList,
   Pressable,
-  SafeAreaView,
-  ScrollView,
   StatusBar,
   StyleSheet,
   Text,
   TextInput,
-  useColorScheme,
   View,
 } from 'react-native';
 
